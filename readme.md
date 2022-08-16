@@ -1,4 +1,4 @@
-![Git-Set-Go](/assets/banner.png)
+![Git-Set-Go](/assets/introbanner.png)
 
 This repository contains the yearbook for **Git Set Go**. By issuing a pull request to this repository, you can request 
 and get started with github and take part in the Git Set Go 2022.
