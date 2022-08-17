@@ -9,7 +9,7 @@ and get started with github and take part in the Git Set Go 2022.
 
 The first 15 pull request successfully merged into the repository from 17th August 4PM to 18th August 12 AM IST will receive T-shirts.
 
-All the entires will get featured in the yearbook in the repository
+All the entires will get featured in the learner's book in the repository
 
 ## Privacy Notice 👀
 
